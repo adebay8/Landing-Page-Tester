@@ -81,3 +81,10 @@ p {
 .main.light .result-section .card {
     background: #212226;
 }
+
+.main.light .result-section .card p .tab{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Italics;
+    padding-left: 10px;
+  }
